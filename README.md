@@ -3,7 +3,7 @@
 #LAB3 (https://github.com/2303A51925/AIML-2024-25/blob/main/Lab3_AIML.ipynb)   
 #LAB4 (https://github.com/2303A51925/AIML-2024-25/blob/main/Lab3_AIML.ipynb)   
 #LAB5 (https://github.com/2303A51925/AIML-2024-25/blob/main/Lab05-AIML.ipynb.txt)
-#LAB7 ()
+#LAB7 (https://github.com/2303A51925/AIML-2024-25/blob/main/LAB7.ipynb)
 
 
 
